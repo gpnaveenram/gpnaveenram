@@ -1,0 +1,27 @@
+body{
+    background-color: paleturquoise;
+}
+.fa{
+   color: blue; 
+}
+.box-inside{
+    background-color: white ;
+    padding: 60px 5px;
+    margin: 20px 10px;
+}
+a{
+    border-bottom: 2px solid blue;
+}
+p{
+    font-size: 15px;
+}
+.box{
+    padding: 55px 40px;
+}
+.content{
+    margin: 20px;
+}
+.col{
+    font-size: 15px;
+    color: blue;
+}
