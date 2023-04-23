@@ -1,0 +1,53 @@
+body{
+    background-color: paleturquoise;
+}
+.fa{
+   color: blue; 
+}
+.box-inside{
+    background-color: white ;
+    padding: 60px 5px;
+    margin: 20px 10px;
+}
+a{
+    border-bottom: 2px solid blue;
+}
+p{
+    font-size: 15px;
+}
+.box{
+    margin: auto;
+    text-align: center;
+    padding: 60px 50px;
+    font-size: 15px;
+    color:darkblue;
+    font-weight: 500;
+}
+.content{
+    margin: 20px;
+}
+.col{
+    font-size: 15px;
+    color: blue;
+}
+.container{
+    color:blue;
+}
+.text{
+    margin-left:330px;
+    text-align: center;
+    padding: 50px 40px;
+    font-size: 30px;
+    color:darkblue;
+    font-weight: 500;
+}
+.btn{
+    margin-left:10px;
+    font-weight: 200;
+    text-align: center;
+    padding: 2px 2px;
+}
+.data1{
+    margin-left:330px;
+    text-align: center; 
+}
