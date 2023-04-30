@@ -1,0 +1,75 @@
+body{
+    background-color:rgb(143, 167, 165);
+}
+.main{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+}
+.titlebar{
+    background-color: rgb(58, 56, 56);
+    padding-bottom: 20px;
+}
+.fa{
+    margin-left: 20px;
+    margin-top: 15px;
+    color: white;
+    
+}
+.title{
+    font-size: 20px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 400px;
+    margin-bottom: 20px;
+}
+.container-fluid{
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+#profile{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: rgb(26, 25, 25);
+    width: 250px;
+    height: 500px;
+    padding:30px;
+    border-radius: 25px;
+}
+#search{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: rgb(26, 25, 25);
+    border-radius: 15px;
+    width: 500px;
+    height: 50px;
+    margin-left:65px;
+}
+.span{
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-weight: 500px;
+    color: rgb(123, 133, 143);
+
+}
+#skill_1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: rgb(26, 25, 25);
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    margin-left:50px;
+    margin-top: 50px;
+}
+#description{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: rgb(26, 25, 25);
+    border-radius: 15px;
+    width: 550px;
+    height: 150px;
+    margin-left:50px;
+    margin-top: 50px;
+
+}
+
+
