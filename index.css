@@ -1,0 +1,80 @@
+.body{
+    background-color: rgb(10, 10, 10);
+    
+}
+.d-flex{
+    
+    background-color: rgb(104, 132, 139);
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: groove;
+    display:flex;
+}
+.form{
+    background-color: white;
+    border-style: groove;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.mb-3{
+    text-align: left;
+    margin-left: 15px;
+}
+.form-control{
+    width: 500px;
+}
+.btn{
+    margin-left:15px;
+    margin-bottom: 10px;
+}
+.form-check{
+    margin-left:15px;
+    padding:10px;
+}
+.col{
+    
+    border-style:hidden;
+}
+#foodchoice{
+    background-color: rgb(240, 246, 247);
+}
+.row{
+    margin:10px;
+    width:500px;
+    align-items: center;
+    border-style: groove;
+}
+.thead-light{
+    height:10px;
+}
+th{
+    max-width: 100px;
+}
+.table{
+    margin-left:10px;
+    margin-right:10px;
+    padding:10px;
+    text-align: center;
+    color:white;
+    font-weight: 500px;
+    width:100%
+    
+    /* display: inline-flex; */
+}
+.response{
+    text-align: center;
+    color: white;
+}
+#resTable{
+    text-align: center;
+}
+td{
+    max-width: 75px;
+    overflow-wrap:break-word;
+}
