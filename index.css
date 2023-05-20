@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+    margin: auto;
+}
+#timer{
+    display: flex;
+    align-items: center;
+    text-shadow: 30px;
+    text-align: center;
+    font-weight: 1000px;
+    font-size: 100px;
+    color: rgb(212, 57, 226);
+    margin:200px;
+    justify-content: center;
+}
+#message{
+    text-align:center;
+}
