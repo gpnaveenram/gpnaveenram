@@ -1,0 +1,33 @@
+body{
+    background-color: #FDF5DF;
+}
+h1{
+    text-align: center;
+    margin:20px;
+    font-size: 50px;
+    color:#5EBEC4;
+}
+.findButton{
+    text-align: center;
+    margin:20px; 
+}
+.alert{
+    margin:10px;
+    padding:10px;
+}
+mark {
+    background-color: yellow;
+    color: black;
+  }
+#resultCards{
+    justify-content: center;
+    margin:50px;
+    margin-left: 250px;
+}
+.info{
+    text-align: center;
+    margin-right:210px;
+}
+.container{
+    margin-top:0px;
+}
