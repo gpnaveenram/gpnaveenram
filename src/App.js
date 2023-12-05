@@ -53,7 +53,7 @@ function cross(){
 function App() {
   
   return (
-    <div className="container">
+    <div className="container-fluid">
       {planDetails.map(({ plan, price, option1,option2,option3,option4,option5,option6,option7,option8 }) => {
           return <CardLayout
             plan={plan}
