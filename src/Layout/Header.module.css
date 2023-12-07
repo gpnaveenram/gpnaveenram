@@ -1,0 +1,36 @@
+.header {
+    background-color: white;
+    min-height: 75;
+    max-height: 75;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.headerlogo {
+    object-fit: contain;
+    max-height: 65;
+    margin: 16
+}
+
+.cart {
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    max-height: 40px;
+    min-height: 40px;
+    margin: 16px;
+    width: 150px;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+}
+
+.headerTitle {
+
+    font-size: 40px;
+    padding: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}

@@ -1,0 +1,8 @@
+.footer {
+    background-color: black;
+    max-height: 80px;
+    min-height: 80px;
+    color: white;
+    justify-items: space-evenly;
+    justify-content: space-evenly;
+}
