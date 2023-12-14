@@ -1,0 +1,48 @@
+body{
+    background-color: #FDF5DF;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    margin:20px;
+    font-size: 50px;
+    color:#5EBEC4;
+}
+.findButton{
+    text-align: center;
+    margin:20px; 
+}
+.alert{
+    margin:10px;
+    padding:10px;
+}
+mark {
+    background-color: yellow;
+    color: black;
+  }
+#resultCards{
+    justify-content: center;
+    margin:50px;
+    margin-left: 250px;
+}
+.info{
+    text-align: center;
+    margin-right: 0;
+}
+.container{
+    margin: 0;
+        /* display: flex; */
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .row {
+        margin-right: 25%;
+        justify-content: space-evenly;
+    }
+    
+    .searchField {
+        max-width: 80%;
+        align-self: center;
+        margin-left: 150px;
+    }
