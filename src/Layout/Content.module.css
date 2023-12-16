@@ -1,0 +1,19 @@
+.header {
+    color: #4e73df;
+    margin-top: 10px;
+    display: fluid;
+    justify-content: left;
+
+}
+
+.addUser {
+    min-height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: #a3f0f5;
+    cursor: pointer;
+    margin-top: 15px;
+    color: #1d49ce;
+
+}
